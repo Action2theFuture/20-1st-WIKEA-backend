@@ -1,7 +1,6 @@
 ## IKEA Clone Project
 
 - 세계적인 가구 판매 사이트 [이케아](https://www.ikea.com/kr/ko/) 클론 프로젝트
-- [백엔드 github 링크](https://github.com/wecode-bootcamp-korea/20-1st-WIKEA-backend)
 
 ### 개발 인원 및 기간
 
